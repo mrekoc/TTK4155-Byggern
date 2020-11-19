@@ -1,2 +1,2 @@
-# TTK4155-Bygger-n
+# TTK4155-Byggern
 Bygger'n prosjektet. 
